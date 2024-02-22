@@ -21,10 +21,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🗡️ Owner 🗡️", url=f"https://t.me/SaqibADM")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_mxni_ll")
+                        "🗡️ Updates 🗡️", url=f"https://t.me/LineWord122")
             ]
             ]
         ),
@@ -41,10 +41,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_BAD_MUNDA_II")
+                        "🗡️ OWNER 🗡️", url=f"https://t.me/SaqibADM")
                 ],
                 [InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/ll_mxni_ll")
+                        "🗡️ UPDATES 🗡️", url=f"https://t.me/LineWord122")
             ]
             ]
         ),
