@@ -40,10 +40,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/II_mxni_II"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐃𝐄𝐕𝐈𝐋%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/SaqibADM"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐃𝐄𝐕𝐈𝐋%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/II_BAD_BBY_II"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐁𝐀𝐃 𝐌𝐔𝐍𝐃𝐀%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/SaqibADM"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐁𝐀𝐃 𝐌𝐔𝐍𝐃𝐀%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
