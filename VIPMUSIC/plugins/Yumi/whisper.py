@@ -110,7 +110,7 @@ async def in_help():
     answers = [
         InlineQueryResultArticle(
             title="💒 Whisper",
-            description=f"@MissBroken_Bot [USERNAME | ID] [TEXT]",
+            description=f"@TrickByMusuc_bot [USERNAME | ID] [TEXT]",
             input_message_content=InputTextMessageContent(f"**📍Usage:**\n\n@MissBroken_Bot (Target Username or ID) (Your Message).\n\n**Example:**\n@MissBroken_Bot @username I Wanna Phuck You"),
             thumb_url="https://te.legra.ph/file/3eec679156a393c6a1053.jpg",
             reply_markup=switch_btn
